@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ##Overview of the analysis: The purpose of the new analysis is well defined
-An exercise in performing an Extract, Transform, Load data from disparate sources using Python. 
+An exercise in performing an Extract, Transform, Load data from disparate sources using Python. :movie:
 
 ### The project included extracting a large data set from Kaggle, then transforming the data into a usable dataset and narrowed in scope for the hack-a-thon, the DataFrames were loaded into PostgresSQL.
 Clean and transform data using Pandas, using regular expressions to parse data and to transform text into numbers.
@@ -15,6 +15,7 @@ Files: Wikipedia Json, Movie Database Metadata, and MovieLens Ratings
 
 ##Results
 Ultimately, we were able to clean, merge the datasets and export the two new tables into PostgreSQL by using Python. The final results created a movies table with 6,052 rows. A 17% reduction from the original of 7,311 and a ratings table with 26,024,289 rows.
+![ratings](https://user-images.githubusercontent.com/106544424/182723711-05da85e5-2c19-4241-a640-2e37d28f3b25.png)
 
  
 ##Summary:
