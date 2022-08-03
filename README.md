@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ##Overview of the analysis: The purpose of the new analysis is well defined
-An exercise in performing an Extract, Transform, Load data from disparate sources using Python. :movie:
+An exercise in performing an Extract, Transform, Load data from disparate sources using Python. 
 
 ### The project included extracting a large data set from Kaggle, then transforming the data into a usable dataset and narrowed in scope for the hack-a-thon, the DataFrames were loaded into PostgresSQL.
 Clean and transform data using Pandas, using regular expressions to parse data and to transform text into numbers.
